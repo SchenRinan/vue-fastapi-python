@@ -1,0 +1,7 @@
+1. install python (download from internet)
+2. pip install fastapi # to machine
+   pip install uvicorn # to machine
+3. uvicorn main:app --reload # to run server/backend
+   fastapi dev main.py # alternative if I did pip install pip install "fastapi[standard]"
+(feels like express under npm but with python)
+4. pip install python-multipart # to allow form data to be accepted
