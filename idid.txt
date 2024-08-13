@@ -1,3 +1,7 @@
+From scratch actions
+
+Python
+
 1. install python (download from internet)
 2. pip install fastapi # to machine
    pip install uvicorn # to machine
@@ -5,3 +9,8 @@
    fastapi dev main.py # alternative if I did pip install pip install "fastapi[standard]"
 (feels like express under npm but with python)
 4. pip install python-multipart # to allow form data to be accepted
+5. added "python.terminal.activateEnvironment": true in setting.json (user) --- to find activated activateEnvironment
+
+VueJS
+0.1 npm i -g @vue/cli
+1. in bash: vue create client
